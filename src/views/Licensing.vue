@@ -51,6 +51,25 @@
           database and can be searched and filtered. They use the OGL to aggregate many 5e sources
           into one, including Kobold Press, Level Up Advanced 5e, and more.
         </p>
+        <h2>Is this Open Source?</h2>
+        <p>
+          Yes! This project is open source and can be found on
+          <a href="https://github.com/benhodges65/artisanal-combat-tracker" target="_blank"
+            >GitHub</a
+          >, feel free to contribute, fork, or use whatever. Just make sure to credit and properly
+          keep the licensing.
+        </p>
+        <h2>Who made this?</h2>
+        <p>
+          Hi, I am Ben! I am the creator of this site! I wanted to give my love back to the RPG
+          community and this seemed like a great way to do it! If you want to buy me a coffee and
+          fuel my future additions to this site or other creations for lazy dms like myself you can
+          below
+        </p>
+        <a href="https://www.buymeacoffee.com/benhodges5w" target="”_blank”"
+          ><Button>Buy Me a Coffee</Button></a
+        >
+        <p></p>
       </div>
     </Panel>
     <Panel header="Licensing">
