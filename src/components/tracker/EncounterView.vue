@@ -23,7 +23,7 @@
         <template #body="{ data }">
           <a
             v-if="data.slug"
-            :href="'src/assets/monsters_html/' + data.slug + '.html'"
+            :href="'../monsters_html/' + data.slug + '.html'"
             target="_blank"
             class="combatant-name"
           >

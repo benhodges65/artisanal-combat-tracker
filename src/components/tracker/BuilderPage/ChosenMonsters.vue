@@ -20,9 +20,7 @@
       <template #empty> No creatures selected. </template>
       <Column field="name" header="Name">
         <template #body="{ data }">
-          <a :href="'src/assets/monsters_html/' + data.slug + '.html'" target="_blank">{{
-            data.name
-          }}</a>
+          <a :href="'../monsters_html/' + data.slug + '.html'" target="_blank">{{ data.name }}</a>
         </template>
       </Column>
       <Column field="type" header="Type"></Column>

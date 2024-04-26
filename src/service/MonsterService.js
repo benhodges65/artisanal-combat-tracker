@@ -1,7 +1,7 @@
 export const MonsterService = {
   async getMonsterData() {
     try {
-      const response = await fetch('src/assets/monsters.json')
+      const response = await fetch('../monsters.json')
       const data = await response.json()
       return data
     } catch (error) {
