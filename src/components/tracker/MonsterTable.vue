@@ -23,7 +23,9 @@
       <template #loading> Loading monster data. Please wait. </template>
       <Column field="name" header="Name" sortable style="width: 35%">
         <template #body="{ data }">
-          <a :href="'monsters_html/' + data.slug + '.html'" target="_blank">{{ data.name }}</a>
+          <a :href="'src/assets/monsters_html/' + data.slug + '.html'" target="_blank">{{
+            data.name
+          }}</a>
         </template>
       </Column>
       <Column
