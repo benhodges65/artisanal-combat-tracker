@@ -62,13 +62,9 @@
         <h2>Who made this?</h2>
         <p>
           Hi, I am Ben! I am the creator of this site! I wanted to give my love back to the RPG
-          community and this seemed like a great way to do it! If you want to buy me a coffee and
-          fuel my future additions to this site or other creations for lazy dms like myself you can
-          below
+          community and this seemed like a great way to do it! If you want to message me for
+          requests you can find me on discord under the username BenHolder
         </p>
-        <a href="https://www.buymeacoffee.com/benhodges5w" target="”_blank”"
-          ><Button>Buy Me a Coffee</Button></a
-        >
         <p></p>
       </div>
     </Panel>
