@@ -17,8 +17,6 @@ Initiate Encounter: Start the encounter to roll initiative and display combatant
 Track Initiative and Conditions: Use the encounter screen to track initiative order and manage conditions for combatants.
 Lazy Benchmark: Use the Lazy Benchmark feature to quickly assess encounter difficulty based on player levels.
 Additional Information: Click on a monster's name to view detailed statblocks in a new tab.
-Licensing
-This project is licensed under [License Name]. Please refer to the [Licensing page](link to licensing page) for more information on the licensing terms.
 
 ### Credits
 Open5e Project: Monster and NPC statblocks sourced from the Open5e project under the OGL, aggregating content from various 5e sources.
